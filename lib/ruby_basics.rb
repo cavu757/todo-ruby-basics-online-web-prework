@@ -20,7 +20,10 @@ def return_a_value
 end
 
 def last_evaluated_value
-
+  "beginner"
+  "medium"
+  "satisfactory"
+  "expert"
 end
 
 def pizza_party
