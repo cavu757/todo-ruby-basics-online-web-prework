@@ -8,6 +8,7 @@ end
 
 def argue(argument)
   puts argument
+  argument
 end
 
 def greeting(greeting,name)
